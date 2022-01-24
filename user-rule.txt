@@ -142,3 +142,5 @@ timeweb.com
 gluonhq.com
 ! breaks login and store loc
 @@||ubi.com
+@@||mp.microsoft.com
+@@||data.microsoft.com
