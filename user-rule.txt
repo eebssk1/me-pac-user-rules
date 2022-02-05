@@ -2,8 +2,8 @@
 ! See https://adblockplus.org/en/filter-cheatsheet
 
 
-! steam UGC (enable)
-steamusercontent-a.akamaihd.net
+! steam UGC (disable)
+@@||steamusercontent-a.akamaihd.net
 cloudflare.com
 freedownloadmanager.org
 file-up.org
