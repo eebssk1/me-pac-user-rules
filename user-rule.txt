@@ -147,3 +147,8 @@ gluonhq.com
 @@||data.microsoft.com
 @@||cm.steampowered.com
 @@||s-microsoft.com
+gog-statics.com
+proxifier.com
+uupdump.net
+gstatic.com
+twibooru.org
