@@ -2,8 +2,8 @@
 ! See https://adblockplus.org/en/filter-cheatsheet
 
 
-! steam UGC (disable)
-@@||steamusercontent-a.akamaihd.net
+! steam UGC (enable)
+steamusercontent-a.akamaihd.net
 cloudflare.com
 freedownloadmanager.org
 file-up.org
@@ -152,3 +152,8 @@ proxifier.com
 uupdump.net
 gstatic.com
 twibooru.org
+cdn.jsdelivr.net
+imap.gmail.com SOCKS5
+smtp.gmail.com SOCKS5
+windscribe.com
+patreonusercontent.com
